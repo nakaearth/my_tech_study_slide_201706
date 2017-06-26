@@ -1,0 +1,1 @@
+# my_tech_study_slide_201706
