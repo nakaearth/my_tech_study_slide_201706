@@ -24,7 +24,7 @@
 +++
 ### 自動車生産管理システムの話
 - カタリシスとは
-![example](img/component_example.png)
+![example](img/component_example.png =600x400)
 
 
 
