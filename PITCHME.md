@@ -69,7 +69,7 @@
 
 +++
 ### ブログフルリプレースの話
-![example](ブログサービスのテーブル構成変更.png)
+![example](img/blog_table.png)
 
 
 
