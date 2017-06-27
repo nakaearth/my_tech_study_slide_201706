@@ -99,7 +99,7 @@
 
 +++
 ### プリクラアプリのバックエンドの話
-![example](img/component_example.png)
+![example](img/girlscamera_example.png)
 
 
 
